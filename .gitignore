@@ -1,0 +1,6 @@
+.env
+middle_files/
+rust_output/
+annotated_toml_module/
+evaluation_results.json
+__pycache__/
